@@ -1,0 +1,35 @@
+{
+    "id": "12292927-d181-42e9-88ae-e0eb78478f2b",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Howtoplay",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "5fbda3db-4be3-470d-a465-a0e2f9aa4ebc",
+            "label": "howtoPlay",
+            "texture": {
+                "key": "howtoPlay"
+            },
+            "x": 640,
+            "y": 359,
+            "scaleX": 0.6736782424885557,
+            "scaleY": 0.6736782424885557
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

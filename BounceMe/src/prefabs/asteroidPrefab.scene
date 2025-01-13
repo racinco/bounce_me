@@ -1,0 +1,41 @@
+{
+    "id": "a1041cb8-358d-47fc-8972-d51434437df6",
+    "sceneType": "PREFAB",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "ArcadeImage",
+            "id": "461b3c13-8f96-4832-9093-1b0eef68c170",
+            "label": "asteroid",
+            "texture": {
+                "key": "asteroid"
+            },
+            "y": 1,
+            "scaleX": 1.1884172047010664,
+            "scaleY": 1.1884172047010664,
+            "collideWorldBounds": true,
+            "pushable": false,
+            "immovable": true,
+            "bodyGeometry": 0,
+            "radius": 19,
+            "body.width": 128,
+            "body.height": 128
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

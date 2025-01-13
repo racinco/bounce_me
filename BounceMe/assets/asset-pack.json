@@ -1,0 +1,320 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/about.png",
+                "type": "image",
+                "key": "about"
+            },
+            {
+                "url": "assets/aboutpage.jpg",
+                "type": "image",
+                "key": "aboutpage"
+            },
+            {
+                "url": "assets/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/arrow.png",
+                "type": "image",
+                "key": "arrow"
+            },
+            {
+                "url": "assets/asteroid.png",
+                "type": "image",
+                "key": "asteroid"
+            },
+            {
+                "url": "assets/astro.png",
+                "type": "image",
+                "key": "astro"
+            },
+            {
+                "url": "assets/back.png",
+                "type": "image",
+                "key": "back"
+            },
+            {
+                "url": "assets/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/bigexplosion.png",
+                "frameConfig": {
+                    "frameWidth": 96,
+                    "frameHeight": 96,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "bigexplosion"
+            },
+            {
+                "url": "assets/bluebomb.png",
+                "frameConfig": {
+                    "frameWidth": 96,
+                    "frameHeight": 96,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "bluebomb"
+            },
+            {
+                "url": "assets/bluebombFrame1.png",
+                "type": "image",
+                "key": "bluebombFrame1"
+            },
+            {
+                "url": "assets/Bomb.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Bomb"
+            },
+            {
+                "url": "assets/buildings.png",
+                "type": "image",
+                "key": "buildings"
+            },
+            {
+                "url": "assets/Explode.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Explode"
+            },
+            {
+                "url": "assets/GameOver.png",
+                "type": "image",
+                "key": "GameOver"
+            },
+            {
+                "url": "assets/GreenPortal.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "GreenPortal"
+            },
+            {
+                "url": "assets/Home.png",
+                "type": "image",
+                "key": "Home"
+            },
+            {
+                "url": "assets/homebg.jpg",
+                "type": "image",
+                "key": "homebg"
+            },
+            {
+                "url": "assets/how.png",
+                "type": "image",
+                "key": "how"
+            },
+            {
+                "url": "assets/howtoPlay.jpg",
+                "type": "image",
+                "key": "howtoPlay"
+            },
+            {
+                "url": "assets/planet_1.png",
+                "type": "image",
+                "key": "planet_1"
+            },
+            {
+                "url": "assets/planet_10.png",
+                "type": "image",
+                "key": "planet_10"
+            },
+            {
+                "url": "assets/planet_11.png",
+                "type": "image",
+                "key": "planet_11"
+            },
+            {
+                "url": "assets/planet_12.png",
+                "type": "image",
+                "key": "planet_12"
+            },
+            {
+                "url": "assets/planet_13.png",
+                "type": "image",
+                "key": "planet_13"
+            },
+            {
+                "url": "assets/planet_14.png",
+                "type": "image",
+                "key": "planet_14"
+            },
+            {
+                "url": "assets/planet_2.png",
+                "type": "image",
+                "key": "planet_2"
+            },
+            {
+                "url": "assets/planet_3.png",
+                "type": "image",
+                "key": "planet_3"
+            },
+            {
+                "url": "assets/planet_4.png",
+                "type": "image",
+                "key": "planet_4"
+            },
+            {
+                "url": "assets/planet_5.png",
+                "type": "image",
+                "key": "planet_5"
+            },
+            {
+                "url": "assets/planet_6.png",
+                "type": "image",
+                "key": "planet_6"
+            },
+            {
+                "url": "assets/planet_7.png",
+                "type": "image",
+                "key": "planet_7"
+            },
+            {
+                "url": "assets/planet_8.png",
+                "type": "image",
+                "key": "planet_8"
+            },
+            {
+                "url": "assets/planet_9.png",
+                "type": "image",
+                "key": "planet_9"
+            },
+            {
+                "url": "assets/pole.png",
+                "type": "image",
+                "key": "pole"
+            },
+            {
+                "url": "assets/pole2.png",
+                "type": "image",
+                "key": "pole2"
+            },
+            {
+                "url": "assets/PurplePortal.png",
+                "frameConfig": {
+                    "frameWidth": 64,
+                    "frameHeight": 64,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "PurplePortal"
+            },
+            {
+                "url": "assets/purplePortalFrame1.png",
+                "type": "image",
+                "key": "purplePortalFrame1"
+            },
+            {
+                "url": "assets/Retry.png",
+                "type": "image",
+                "key": "Retry"
+            },
+            {
+                "url": "assets/rocket.png",
+                "type": "image",
+                "key": "rocket"
+            },
+            {
+                "url": "assets/satellite.png",
+                "type": "image",
+                "key": "satellite_1"
+            },
+            {
+                "url": "assets/solarpanel.png",
+                "type": "image",
+                "key": "solarpanel"
+            },
+            {
+                "url": "assets/space1.jpg",
+                "type": "image",
+                "key": "space1"
+            },
+            {
+                "url": "assets/space2.jpg",
+                "type": "image",
+                "key": "space2"
+            },
+            {
+                "url": "assets/space3.jpg",
+                "type": "image",
+                "key": "space3"
+            },
+            {
+                "url": "assets/space4.jpg",
+                "type": "image",
+                "key": "space4"
+            },
+            {
+                "url": "assets/space5.jpg",
+                "type": "image",
+                "key": "space5"
+            },
+            {
+                "url": "assets/star.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "star_1"
+            },
+            {
+                "url": "assets/stars.png",
+                "type": "image",
+                "key": "stars"
+            },
+            {
+                "url": "assets/start.png",
+                "type": "image",
+                "key": "start"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

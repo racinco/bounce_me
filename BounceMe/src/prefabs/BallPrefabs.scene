@@ -1,0 +1,44 @@
+{
+    "id": "df050ea2-5317-4f90-82b3-b317adacfe0d",
+    "sceneType": "PREFAB",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "ArcadeImage",
+            "id": "04c98adc-dcdf-4b42-b87c-f1f13cd37e67",
+            "label": "ball",
+            "texture": {
+                "key": "ball"
+            },
+            "scaleX": 0.06,
+            "scaleY": 0.06,
+            "body.maxVelocity.x": 0,
+            "body.maxVelocity.y": 0,
+            "allowGravity": false,
+            "collideWorldBounds": true,
+            "maxAngular": 0,
+            "bodyGeometry": 0,
+            "radius": 298,
+            "body.width": 128,
+            "body.height": 128,
+            "body.offset.x": -1,
+            "body.offset.y": -1
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

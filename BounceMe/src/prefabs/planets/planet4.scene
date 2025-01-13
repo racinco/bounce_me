@@ -1,0 +1,41 @@
+{
+    "id": "0542748b-ceb2-40ec-9072-67d47afcb6d5",
+    "sceneType": "PREFAB",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "ArcadeImage",
+            "id": "90cba79c-0547-4bf9-a542-165f6eed39fe",
+            "label": "planet_4",
+            "texture": {
+                "key": "planet_4"
+            },
+            "scaleX": 0.35,
+            "scaleY": 0.35,
+            "pushable": false,
+            "immovable": true,
+            "bodyGeometry": 0,
+            "radius": 296,
+            "body.width": 128,
+            "body.height": 128,
+            "body.offset.x": 2,
+            "body.offset.y": 2
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

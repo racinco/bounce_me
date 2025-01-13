@@ -1,0 +1,746 @@
+{
+    "anims": [
+        {
+            "key": "portalGreenPortal",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "GreenPortal",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "GreenPortal",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "GreenPortal",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "GreenPortal",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "GreenPortal",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "GreenPortal",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "bombBomb",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Bomb",
+                    "frame": 121,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 124,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 127,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 130,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 133,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 136,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 142,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 145,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "bomb2Bomb",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Bomb",
+                    "frame": 481,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 484,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 487,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 490,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 493,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 496,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 499,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 502,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Bomb",
+                    "frame": 505,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "explosionExplode",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Explode",
+                    "frame": 116,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 117,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 106,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 107,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 108,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 109,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 129,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "explosionExplode_1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Explode",
+                    "frame": 116,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 117,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 106,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 107,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 108,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 109,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 129,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Explode",
+                    "frame": 110,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "starstar",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "star_1",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "star_1",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "star_1",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "star_1",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "star_1",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "star_1",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "star_1",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "star_1",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "idleportalPurplePortal",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PurplePortal",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "popportalPurplePortal",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PurplePortal",
+                    "frame": 8,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 9,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "deleteportalPurplePortal",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PurplePortal",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 20,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 21,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 22,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "teleportPurplePortal",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PurplePortal",
+                    "frame": 8,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 9,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 20,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PurplePortal",
+                    "frame": 21,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "bombbluebomb",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bluebomb",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bluebomb",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bluebomb",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bluebomb",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bluebomb",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bluebomb",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bluebomb",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bluebomb",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": 1,
+            "randomFrame": false
+        },
+        {
+            "key": "explosionbigexplosion",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bigexplosion",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 20,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 21,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 22,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bigexplosion",
+                    "frame": 23,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}
